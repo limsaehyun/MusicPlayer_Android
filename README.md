@@ -1,7 +1,5 @@
 ## MusicPlayer
 
----
-
 안드로이드 공부를 위한 개인 프로젝트
 
 * email address : sh007100@naver.com
