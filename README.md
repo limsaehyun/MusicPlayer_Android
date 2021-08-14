@@ -10,6 +10,7 @@
 
   
 
+
 ### Introduction
 
 ---
@@ -21,11 +22,13 @@
 
 
 
+
 ### Development Environment
 
 ---
 
 * Android Studio @4.2.2
+
 
 
 
@@ -38,11 +41,15 @@
 
 
 
+
 ### Keyword Method
 
 ---
 
 * WebView : Youtube Embed로 부터 음악을 불러올 때 사용
+
+
+
 
 ### ScreenShot
 
