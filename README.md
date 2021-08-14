@@ -1,4 +1,4 @@
-### MusicPlayer
+## MusicPlayer
 
 ---
 
@@ -10,7 +10,7 @@
 
   
 
-#### Introduction
+### Introduction
 
 ---
 
@@ -21,7 +21,7 @@
 
 
 
-#### Development Environment
+### Development Environment
 
 ---
 
@@ -29,7 +29,7 @@
 
 
 
-#### Application Version
+### Application Version
 
 ---
 
@@ -38,13 +38,13 @@
 
 
 
-#### Keyword Method
+### Keyword Method
 
 ---
 
 * WebView : Youtube Embed로 부터 음악을 불러올 때 사용
 
-#### ScreenShot
+### ScreenShot
 
 ---
 
